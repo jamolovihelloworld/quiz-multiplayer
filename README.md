@@ -1,2 +1,3 @@
-# quiz-multiplayer
-quiz-multiplayer
+# Quiz Multiplayer
+
+Описание проекта quiz-multiplayer.
